@@ -5,8 +5,8 @@ monitoring them and decide on their relevance in choosing the right strategy in 
 
   This repository is a vehicle to share the images, datasets, results and other complementary outputs that support the understanding of the method and the replication of the experiments. We structured the repository as follows:
 
-    1 - BSN: Files relevant to the description and representation of the BSN structure and operation, as well as the implementation of a
-    BSN simulation in Python;
+    1 - BSN: Files relevant to the description and representation of the BSN structure and operation, as well as 
+    the implementation of a BSN simulation in Python;
 
     2 - Evaluation Graphs: Outputs from the data mining method, containing results concerning the scalability and 
     the contribution itself;
